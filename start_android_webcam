@@ -1,0 +1,3 @@
+#!/usr/bin/zsh
+
+scrcpy --video-source=camera --audio-source=mic-voice-communication --camera-id=2 --camera-size=1280x720 --camera-fps=30 --v4l2-sink=/dev/video2 --no-video-playback
