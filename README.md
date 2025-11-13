@@ -3,7 +3,7 @@
  - Need to install using `pip install manimgl`, after creating a conda virtual environment (mgl).
  - Need to install `libstdcxx-ng` from `conda-forge` after installing manimgl to get rid of the `pyglet`-window error.
 
-## For setting up scrcpy (To use android-phone camera as a webcam):
+## FOR SETTING UP SCRCPY (To use android-phone camera as a webcam):
 
  - Need to install `scrcpy` from `extra/scrcpy`.
  - Need to install `v4l2loopback-dkms`, `linux-headers`, and `v4l2loopback-utils`.
